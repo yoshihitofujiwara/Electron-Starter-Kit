@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<network>
+		<host>000.00.0.00</host>
+		<port>11111</post>
+	</network>
+</settings>
