@@ -13,7 +13,7 @@ Electron開発コード
 
 
 ## Command
-#### NPM Pakage Install
+#### NPM Package Install
 ```
 $ npm install
 ```
